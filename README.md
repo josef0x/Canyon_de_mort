@@ -10,3 +10,5 @@ In your terminal :
 After losing a game in which you've made at least 200 points,
 you are going to be asked to type in a username in order to be added
 to the Hall of Fame along with your score.
+
+Made by : Youssef ABYAA & Khaoula ALAYAR
